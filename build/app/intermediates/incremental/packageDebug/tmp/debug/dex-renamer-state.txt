@@ -1,0 +1,4 @@
+#Sun Jul 28 16:25:05 CEST 2024
+base.0=/home/alberto-dell/AndroidStudioProjects/web_radio/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
