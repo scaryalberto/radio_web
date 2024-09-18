@@ -8,9 +8,8 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Lo scopo del progetto è creare una app flutter per ascoltare la radio. Il funzionamento è semplice: crea una istanza del browser col il canale radio selezionato.
+L'app funziona a partire da android 6 e richiede poche risorse RAM
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+TODO:
+- possibilità di aggiungere e rimuovere le radio
